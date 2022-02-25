@@ -1,5 +1,5 @@
 /*
-(c) Haley Euphemia Eleanor Ashley Lisa Praesent (Codeawayhaley) 6-10-2017
+(c) Haley Euphemia Sands (Codeawayhaley) 6-10-2017
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 See: http://creativecommons.org/licenses/by-sa/4.0/
 */
